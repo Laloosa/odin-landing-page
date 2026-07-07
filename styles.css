@@ -1,0 +1,12 @@
+* {
+    font-family: 'Roboto';
+}
+
+li {
+    list-style: none;
+}
+
+#hero img { /**descendant selector for image in hero section*/
+    width: 200px;
+    height: 150px;
+}
