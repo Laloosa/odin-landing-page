@@ -23,7 +23,7 @@ h1 {
     font-weight: 900;
 }
 
-#hero_section p, li {
+#hero_section p, a {
     font-size: 18px;
     color: #E5E7EB;
 }
